@@ -1,0 +1,1995 @@
+{
+  "students": [
+    {
+      "name": "王员",
+      "sex": "男",
+      "studentno": "160101",
+      "class": "16级1班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000202001220000",
+      "birthdate": "2000-06-17",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村石榴大队108号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-05-05",
+      "speciality": "唱、跳、rap、篮球",
+      "id": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "王员",
+      "stuid": "160101",
+      "class": "16级1班",
+      "gradeonelast": [
+        {
+          "chinese": "105",
+          "math": "122",
+          "english": "127",
+          "physics": "72",
+          "chemistry": "90",
+          "biology": "77"
+        }
+      ],
+      "gradeonenext": [
+        {
+          "chinese": "107",
+          "math": "117",
+          "english": "131",
+          "physics": "49",
+          "chemistry": "82",
+          "biology": "85"
+        }
+      ],
+      "gradetwolast": [
+        {
+          "chinese": "99",
+          "math": "119",
+          "english": "128",
+          "physics": "65",
+          "chemistry": "86",
+          "biology": "88"
+        }
+      ],
+      "gradetwonext": [
+        {
+          "chinese": "112",
+          "math": "128",
+          "english": "139",
+          "physics": "69",
+          "chemistry": "79",
+          "biology": "86"
+        }
+      ],
+      "gradethreelast": [
+        {
+          "chinese": "105",
+          "math": "109",
+          "english": "122",
+          "physics": "72",
+          "chemistry": "92",
+          "biology": "81"
+        }
+      ],
+      "gradethreenext": [
+        {
+          "chinese": "108",
+          "math": "135",
+          "english": "125",
+          "physics": "83",
+          "chemistry": "91",
+          "biology": "93"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "timetableforsix": [
+  	{
+  		"schoolyear": "2018-2019下学期",
+  		"class": "16级1班",
+  		"id": 1,
+  		"timetable": [
+  			{
+  				"order": "1",
+  				"duringtime": "08:10 - 08:55",
+  				"monday": "语文",
+  				"tuesday": "英语",
+  				"wednesday": "语文",
+  				"thursday": "生物",
+  				"friday": "数学",
+  				"saturday": "数学",
+  				"sunday": ""
+  			},
+  			{
+  				"order": "2",
+  				"duringtime": "09:05 - 09:50",
+  				"monday": "语文",
+  				"tuesday": "英语",
+  				"wednesday": "语文",
+  				"thursday": "生物",
+  				"friday": "数学",
+  				"saturday": "数学",
+  				"sunday": ""
+  			},
+  			{
+  				"order": "3",
+  				"duringtime": "10:20 - 11:05",
+  				"monday": "英语",
+  				"tuesday": "数学",
+  				"wednesday": "物理",
+  				"thursday": "化学",
+  				"friday": "物理",
+  				"saturday": "语文",
+  				"sunday": ""
+  			},
+  			{
+  				"order": "4",
+  				"duringtime": "11:15 - 12:00",
+  				"monday": "英语",
+  				"tuesday": "数学",
+  				"wednesday": "物理",
+  				"thursday": "化学",
+  				"friday": "体育",
+  				"saturday": "语文",
+  				"sunday": ""
+  			},
+  			{
+  				"order": "5",
+  				"duringtime": "14:20 - 15:05",
+  				"monday": "化学",
+  				"tuesday": "生物",
+  				"wednesday": "化学",
+  				"thursday": "数学",
+  				"friday": "英语",
+  				"saturday": "",
+  				"sunday": ""
+  			},
+  			{
+  				"order": "6",
+  				"duringtime": "15:15 - 16:00",
+  				"monday": "化学",
+  				"tuesday": "生物",
+  				"wednesday": "生物",
+  				"thursday": "数学",
+  				"friday": "英语",
+  				"saturday": "",
+  				"sunday": ""
+  			},
+  			{
+  				"order": "7",
+  				"duringtime": "16:20 - 17:05",
+  				"monday": "体育",
+  				"tuesday": "物理",
+  				"wednesday": "体育",
+  				"thursday": "音乐",
+  				"friday": "生物",
+  				"saturday": "",
+  				"sunday": ""
+  			},
+  			{
+  				"order": "8",
+  				"duringtime": "17:15 - 18:00",
+  				"monday": "自习",
+  				"tuesday": "物理",
+  				"wednesday": "自习",
+  				"thursday": "自习",
+  				"friday": "生物",
+  				"saturday": "",
+  				"sunday": ""
+  			}
+  		]
+  	}
+  ],
+	"stuinforlist": [
+    {
+      "name": "张甜爱",
+      "sex": "女",
+      "studentno": "160801",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇苹果村",
+      "idnumber": "000000200011220000",
+      "birthdate": "2000-11-22",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇苹果村梨花大队15号",
+      "juniorhighschool": "水果镇苹果中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2016-04-03",
+      "speciality": "钢琴、吉他",
+      "id": 1
+    },
+    {
+      "name": "迪丽热吗",
+      "sex": "女",
+      "studentno": "160802",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200001010000",
+      "birthdate": "2000-01-01",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村香蕉寨15号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-06-01",
+      "speciality": "唱歌、跳舞、rap、篮球",
+      "id": 2
+    },
+    {
+      "name": "赵莉颍",
+      "sex": "女",
+      "studentno": "160803",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200101010000",
+      "birthdate": "2001-01-01",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村桃花大队77号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2012-03-20",
+      "speciality": "演员、影视",
+      "id": 3
+    },
+    {
+      "name": "吴奇龙",
+      "sex": "男",
+      "studentno": "160804",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200010100000",
+      "birthdate": "2000-10-10",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村水利公司大道口12号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-10-15",
+      "speciality": "音乐、小说创作",
+      "id": 4
+    },
+    {
+      "name": "杨阳",
+      "sex": "男",
+      "studentno": "160805",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000199910190000",
+      "birthdate": "1999-10-19",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村锦上春城5栋12号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-12-12",
+      "speciality": "篮球、长跑",
+      "id": 5
+    },
+    {
+      "name": "封少峰",
+      "sex": "男",
+      "studentno": "160806",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200210170000",
+      "birthdate": "2002-10-17",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村25号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-05-11",
+      "speciality": "体育、英语、数学、篮球",
+      "id": 6
+    },
+    {
+      "name": "古丽哪吒",
+      "sex": "女",
+      "studentno": "160807",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇苹果村",
+      "idnumber": "000000199802280000",
+      "birthdate": "1998-02-28",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇苹果村金石大道公园路18号",
+      "juniorhighschool": "水果镇苹果中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-05-06",
+      "speciality": "太极、电脑编程",
+      "id": 7
+    },
+    {
+      "name": "欧洋风",
+      "sex": "男",
+      "studentno": "160808",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200104300000",
+      "birthdate": "2001-04-30",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村第五刑警队14号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-04-24",
+      "speciality": "运动、足球、乒乓球",
+      "id": 8
+    },
+    {
+      "name": "刘施施",
+      "sex": "女",
+      "studentno": "160809",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200012250000",
+      "birthdate": "2000-12-25",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村芭蕉路13号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-11-20",
+      "speciality": "足球、乒乓球、羽毛球",
+      "id": 9
+    },
+    {
+      "name": "易阳千禧",
+      "sex": "男",
+      "studentno": "160810",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000200006080000",
+      "birthdate": "2000-06-08",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村大田路44号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-09-15",
+      "speciality": "排球、计算机编程",
+      "id": 10
+    },
+    {
+      "name": "刘帮",
+      "sex": "男",
+      "studentno": "160811",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200007070000",
+      "birthdate": "2000-07-07",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村致富路12号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2013-04-17",
+      "speciality": "书法、绘画",
+      "id": 11
+    },
+    {
+      "name": "胡哥",
+      "sex": "男",
+      "studentno": "160812",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000200105040000",
+      "birthdate": "2001-05-04",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村爱国路9号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-06-06",
+      "speciality": "钢琴",
+      "id": 12
+    },
+    {
+      "name": "景田",
+      "sex": "女",
+      "studentno": "160813",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200009240000",
+      "birthdate": "2000-09-24",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村水果之乡45号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-03-12",
+      "speciality": "弹琴、舞蹈",
+      "id": 13
+    },
+    {
+      "name": "柳妍妍",
+      "sex": "女",
+      "studentno": "160814",
+      "class": "16级8班",
+      "nation": "汉族",
+      "nativeplace": "水果镇苹果村",
+      "idnumber": "000000200010200000",
+      "birthdate": "2000-10-20",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇苹果村第六医院街道口20号",
+      "juniorhighschool": "水果镇苹果中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-05-21",
+      "speciality": "吉他，小提琴",
+      "id": 14
+    }
+  ],
+  "classseven": [
+    {
+      "name": "朱古力",
+      "sex": "男",
+      "studentno": "160701",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200105060000",
+      "birthdate": "2001-05-06",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村教师路3号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2016-04-03",
+      "speciality": "钢琴、吉他、电脑游戏",
+      "id": 1
+    },
+    {
+      "name": "刘雪儿",
+      "sex": "女",
+      "studentno": "160702",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200001010000",
+      "birthdate": "2000-01-01",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村人民路15号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-06-01",
+      "speciality": "唱歌、跳舞、rap、篮球",
+      "id": 2
+    },
+    {
+      "name": "赵瑟瑟",
+      "sex": "女",
+      "studentno": "160703",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200101010000",
+      "birthdate": "2001-01-01",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村向阳路7号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2012-03-20",
+      "speciality": "演员、影视",
+      "id": 3
+    },
+    {
+      "name": "刘雨菲",
+      "sex": "女",
+      "studentno": "160704",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200010100000",
+      "birthdate": "2000-10-10",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村人民路14号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-10-15",
+      "speciality": "音乐、小说创作",
+      "id": 4
+    },
+    {
+      "name": "杨倩花",
+      "sex": "女",
+      "studentno": "160705",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000199910190000",
+      "birthdate": "1999-10-19",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村襄阳北路2号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-12-12",
+      "speciality": "篮球、长跑",
+      "id": 5
+    },
+    {
+      "name": "李承鄞",
+      "sex": "男",
+      "studentno": "160706",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200210170000",
+      "birthdate": "2002-10-17",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村香山路6号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-05-11",
+      "speciality": "体育、英语、数学、篮球",
+      "id": 6
+    },
+    {
+      "name": "曲小枫",
+      "sex": "女",
+      "studentno": "160707",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇苹果村",
+      "idnumber": "000000199802280000",
+      "birthdate": "1998-02-28",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇苹果村爱情路17号",
+      "juniorhighschool": "水果镇苹果中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-05-06",
+      "speciality": "太极、电脑编程",
+      "id": 7
+    },
+    {
+      "name": "马大帅",
+      "sex": "男",
+      "studentno": "160708",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200104300000",
+      "birthdate": "2001-04-30",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村爱国路9号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-04-24",
+      "speciality": "运动、足球、乒乓球",
+      "id": 8
+    },
+    {
+      "name": "李思思",
+      "sex": "女",
+      "studentno": "160709",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200012250000",
+      "birthdate": "2000-12-25",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村天堂路18号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-11-20",
+      "speciality": "足球、乒乓球、羽毛球",
+      "id": 9
+    },
+    {
+      "name": "朱丹丹",
+      "sex": "女",
+      "studentno": "160710",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000200006080000",
+      "birthdate": "2000-06-08",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村金湖路7号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-09-15",
+      "speciality": "排球、计算机编程",
+      "id": 10
+    },
+    {
+      "name": "刘婵",
+      "sex": "女",
+      "studentno": "160711",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200007070000",
+      "birthdate": "2000-07-07",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村夫妻巷45号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2013-04-17",
+      "speciality": "书法、绘画",
+      "id": 11
+    },
+    {
+      "name": "刘澈",
+      "sex": "男",
+      "studentno": "160712",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000200105040000",
+      "birthdate": "2001-05-04",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村育才路12号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-06-06",
+      "speciality": "钢琴",
+      "id": 12
+    },
+    {
+      "name": "程冠南",
+      "sex": "男",
+      "studentno": "160713",
+      "class": "16级7班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200009240000",
+      "birthdate": "2000-09-24",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村八角路8号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-03-12",
+      "speciality": "弹琴、舞蹈",
+      "id": 13
+    }
+  ],
+  "classsix": [
+    {
+      "name": "杨密",
+      "sex": "男",
+      "studentno": "160601",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "蔬菜镇豆角村",
+      "idnumber": "000000200105060000",
+      "birthdate": "2001-05-06",
+      "enrolmentdate": "2016-09-01",
+      "address": "蔬菜镇豆角村梨花大队15号",
+      "juniorhighschool": "蔬菜镇豆角中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2016-04-03",
+      "speciality": "钢琴、吉他、电脑游戏",
+      "id": 1
+    },
+    {
+      "name": "李大友",
+      "sex": "男",
+      "studentno": "160602",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200108140000",
+      "birthdate": "2001-08-14",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村富强路4号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-06-01",
+      "speciality": "唱歌、跳舞、rap、篮球",
+      "id": 2
+    },
+    {
+      "name": "李原截",
+      "sex": "男",
+      "studentno": "160603",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇苹果村",
+      "idnumber": "000000200005050000",
+      "birthdate": "2000-05-05",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇苹果村民主路3号",
+      "juniorhighschool": "水果镇苹果中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2012-03-20",
+      "speciality": "演员，话剧",
+      "id": 3
+    },
+    {
+      "name": "吴光炎",
+      "sex": "男",
+      "studentno": "160604",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇苹果村",
+      "idnumber": "000000200103040000",
+      "birthdate": "2001-03-04",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇苹果村苹果大队17号",
+      "juniorhighschool": "水果镇苹果中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-10-15",
+      "speciality": "音乐、小说创作",
+      "id": 4
+    },
+    {
+      "name": "刘燕",
+      "sex": "女",
+      "studentno": "160605",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200006190000",
+      "birthdate": "2000-06-19",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村特别行政队16号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-12-12",
+      "speciality": "篮球、长跑",
+      "id": 5
+    },
+    {
+      "name": "白竹义",
+      "sex": "男",
+      "studentno": "160606",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇花瓜村",
+      "idnumber": "000000200112040000",
+      "birthdate": "2001-12-04",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇花瓜村第一大队1号",
+      "juniorhighschool": "水果镇黄瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-05-11",
+      "speciality": "体育、英语、数学、篮球",
+      "id": 6
+    },
+    {
+      "name": "张大力",
+      "sex": "女",
+      "studentno": "160607",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "蔬菜镇豆角村",
+      "idnumber": "000000199905010000",
+      "birthdate": "1999-05-01",
+      "enrolmentdate": "2016-09-01",
+      "address": "蔬菜镇豆角村第五突击队8号",
+      "juniorhighschool": "蔬菜镇豆角中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-05-06",
+      "speciality": "太极、电脑编程",
+      "id": 7
+    },
+    {
+      "name": "马云禄",
+      "sex": "男",
+      "studentno": "160608",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200009090000",
+      "birthdate": "2000-09-09",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村和谐路16号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-04-24",
+      "speciality": "运动、足球、乒乓球",
+      "id": 8
+    },
+    {
+      "name": "刘大脚",
+      "sex": "女",
+      "studentno": "160609",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200112230000",
+      "birthdate": "2001-12-23",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村和谐大道8号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-11-20",
+      "speciality": "足球、乒乓球、羽毛球",
+      "id": 9
+    },
+    {
+      "name": "马达",
+      "sex": "男",
+      "studentno": "160610",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000199908020000",
+      "birthdate": "1999-08-02",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村文明路44号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-09-15",
+      "speciality": "排球、计算机编程",
+      "id": 10
+    },
+    {
+      "name": "刘恋",
+      "sex": "女",
+      "studentno": "160611",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200004260000",
+      "birthdate": "2000-04-26",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村天涯路15号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2013-04-17",
+      "speciality": "书法、绘画",
+      "id": 11
+    },
+    {
+      "name": "胡图图",
+      "sex": "男",
+      "studentno": "160612",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇西瓜村",
+      "idnumber": "000000200006140000",
+      "birthdate": "2000-06-14",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇西瓜村友善路66号",
+      "juniorhighschool": "水果镇西瓜中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-06-06",
+      "speciality": "钢琴",
+      "id": 12
+    },
+    {
+      "name": "马文路",
+      "sex": "男",
+      "studentno": "160613",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200105180000",
+      "birthdate": "2001-05-18",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村摩天路45号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-03-12",
+      "speciality": "弹琴、舞蹈",
+      "id": 13
+    },
+    {
+      "name": "张新宇",
+      "sex": "男",
+      "studentno": "160614",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇桃花村",
+      "idnumber": "000000200102060000",
+      "birthdate": "2001-02-06",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇桃花村丰收乡31号",
+      "juniorhighschool": "水果镇桃花中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2015-06-01",
+      "speciality": "音乐，篮球，书法",
+      "id": 14
+    },
+    {
+      "name": "张雪有",
+      "sex": "女",
+      "studentno": "160615",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇香蕉村",
+      "idnumber": "000000200006300000",
+      "birthdate": "2000-06-30",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇香蕉村和谐路65号",
+      "juniorhighschool": "水果镇香蕉中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-05-14",
+      "speciality": "古筝，美术",
+      "id": 15
+    },
+    {
+      "name": "张玉清",
+      "sex": "男",
+      "studentno": "160616",
+      "class": "16级6班",
+      "nation": "汉族",
+      "nativeplace": "水果镇苹果村",
+      "idnumber": "000000200109210000",
+      "birthdate": "2001-09-21",
+      "enrolmentdate": "2016-09-01",
+      "address": "水果镇苹果村苹果大队7号",
+      "juniorhighschool": "水果镇苹果中学",
+      "politicsstatus": "团员",
+      "leaguedate": "2014-03-23",
+      "speciality": "篮球，乒乓球",
+      "id": 16
+    }
+  ],
+  "stugradelist": [
+    {
+      "name": "杨密",
+      "stuid": "160801",
+      "class": "16级8班",
+      "id": 1,
+      "gradelist": [
+        {
+          "stuyear": "2016-2017上学期",
+          "chinese": "105",
+          "math": "122",
+          "english": "127",
+          "physics": "72",
+          "chemistry": "90",
+          "biology": "77"
+        },
+        {
+          "stuyear": "2016-2017下学期",
+          "chinese": "107",
+          "math": "117",
+          "english": "131",
+          "physics": "49",
+          "chemistry": "82",
+          "biology": "85"
+        },
+        {
+          "stuyear": "2017-2018上学期",
+          "chinese": "99",
+          "math": "119",
+          "english": "128",
+          "physics": "65",
+          "chemistry": "86",
+          "biology": "88"
+        },
+        {
+          "stuyear": "2017-2018下学期",
+          "chinese": "112",
+          "math": "128",
+          "english": "139",
+          "physics": "69",
+          "chemistry": "79",
+          "biology": "86"
+        },
+        {
+          "stuyear": "2018-2019上学期",
+          "chinese": "105",
+          "math": "109",
+          "english": "122",
+          "physics": "72",
+          "chemistry": "92",
+          "biology": "81"
+        },
+        {
+          "stuyear": "2018-2019下学期",
+          "chinese": "108",
+          "math": "135",
+          "english": "125",
+          "physics": "83",
+          "chemistry": "91",
+          "biology": "93"
+        }
+      ]
+    },
+    {
+      "name": "迪丽热吗",
+      "stuid": "160802",
+      "class": "16级8班",
+      "id": 2,
+      "gradelist": [
+        {
+          "stuyear": "2016-2017上学期",
+          "chinese": "123",
+          "math": "130",
+          "english": "123",
+          "physics": "78",
+          "chemistry": "85",
+          "biology": "100"
+        },
+        {
+          "stuyear": "2016-2017下学期",
+          "chinese": "112",
+          "math": "128",
+          "english": "132",
+          "physics": "82",
+          "chemistry": "66",
+          "biology": "89"
+        },
+        {
+          "stuyear": "2017-2018上学期",
+          "chinese": "120",
+          "math": "112",
+          "english": "120",
+          "physics": "69",
+          "chemistry": "73",
+          "biology": "98"
+        },
+        {
+          "stuyear": "2017-2018下学期",
+          "chinese": "115",
+          "math": "108",
+          "english": "123",
+          "physics": "52",
+          "chemistry": "69",
+          "biology": "92"
+        },
+        {
+          "stuyear": "2018-2019上学期",
+          "chinese": "123",
+          "math": "129",
+          "english": "129",
+          "physics": "78",
+          "chemistry": "88",
+          "biology": "89"
+        },
+        {
+          "stuyear": "2018-2019下学期",
+          "chinese": "125",
+          "math": "139",
+          "english": "135",
+          "physics": "89",
+          "chemistry": "93",
+          "biology": "99"
+        }
+      ]
+    },
+    {
+      "name": "赵莉颍",
+      "stuid": "160803",
+      "class": "16级8班",
+      "id": 3,
+      "gradelist": [
+        {
+          "stuyear": "2016-2017上学期",
+          "chinese": "112",
+          "math": "90",
+          "english": "115",
+          "physics": "56",
+          "chemistry": "65",
+          "biology": "90"
+        },
+        {
+          "stuyear": "2016-2017下学期",
+          "chinese": "108",
+          "math": "96",
+          "english": "111",
+          "physics": "60",
+          "chemistry": "63",
+          "biology": "82"
+        },
+        {
+          "stuyear": "2017-2018上学期",
+          "chinese": "95",
+          "math": "107",
+          "english": "117",
+          "physics": "62",
+          "chemistry": "59",
+          "biology": "88"
+        },
+        {
+          "stuyear": "2017-2018下学期",
+          "chinese": "96",
+          "math": "106",
+          "english": "106",
+          "physics": "66",
+          "chemistry": "61",
+          "biology": "90"
+        },
+        {
+          "stuyear": "2018-2019上学期",
+          "chinese": "102",
+          "math": "98",
+          "english": "120",
+          "physics": "59",
+          "chemistry": "68",
+          "biology": "86"
+        },
+        {
+          "stuyear": "2018-2019下学期",
+          "chinese": "108",
+          "math": "125",
+          "english": "126",
+          "physics": "70",
+          "chemistry": "75",
+          "biology": "92"
+        }
+      ]
+    },
+    {
+      "name": "吴奇龙",
+      "stuid": "160804",
+      "class": "16级8班",
+      "gradelist": [
+        {
+          "stuyear": "2016-2017上学期",
+          "chinese": "112",
+          "math": "90",
+          "english": "115",
+          "physics": "56",
+          "chemistry": "65",
+          "biology": "90"
+        },
+        {
+          "stuyear": "2016-2017下学期",
+          "chinese": "108",
+          "math": "96",
+          "english": "111",
+          "physics": "60",
+          "chemistry": "63",
+          "biology": "82"
+        },
+        {
+          "stuyear": "2017-2018上学期",
+          "chinese": "89",
+          "math": "55",
+          "english": "96",
+          "physics": "28",
+          "chemistry": "36",
+          "biology": "68"
+        },
+        {
+          "stuyear": "2017-2018下学期",
+          "chinese": "88",
+          "math": "77",
+          "english": "99",
+          "physics": "56",
+          "chemistry": "55",
+          "biology": "18"
+        },
+        {
+          "stuyear": "2018-2019上学期",
+          "chinese": "125",
+          "math": "126",
+          "english": "138",
+          "physics": "89",
+          "chemistry": "98",
+          "biology": "99"
+        },
+        {
+          "stuyear": "2018-2019下学期",
+          "chinese": "123",
+          "math": "136",
+          "english": "129",
+          "physics": "96",
+          "chemistry": "97",
+          "biology": "100"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "杨阳",
+      "stuid": "160805",
+      "class": "16级8班",
+      "gradelist": [
+        {
+          "stuyear": "2016-2017上学期",
+          "chinese": "121",
+          "math": "122",
+          "english": "115",
+          "physics": "79",
+          "chemistry": "92",
+          "biology": "95"
+        },
+        {
+          "stuyear": "2016-2017下学期",
+          "chinese": "108",
+          "math": "129",
+          "english": "120",
+          "physics": "88",
+          "chemistry": "93",
+          "biology": "97"
+        },
+        {
+          "stuyear": "2017-2018上学期",
+          "chinese": "111",
+          "math": "123",
+          "english": "118",
+          "physics": "98",
+          "chemistry": "96",
+          "biology": "99"
+        },
+        {
+          "stuyear": "2017-2018下学期",
+          "chinese": "113",
+          "math": "124",
+          "english": "113",
+          "physics": "79",
+          "chemistry": "95",
+          "biology": "88"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "封少峰",
+      "stuid": "160806",
+      "class": "16级8班",
+      "id": 6,
+      "gradelist": []
+    },
+    {
+      "name": "古丽哪吒",
+      "stuid": "160807",
+      "class": "16级8班",
+      "id": 7,
+      "gradelist": []
+    },
+    {
+      "name": "欧洋风",
+      "stuid": "160808",
+      "class": "16级8班",
+      "id": 8,
+      "gradelist": []
+    },
+    {
+      "name": "刘施施",
+      "stuid": "160809",
+      "class": "16级8班",
+      "id": 9,
+      "gradelist": []
+    },
+    {
+      "name": "易阳千禧",
+      "stuid": "160810",
+      "class": "16级8班",
+      "id": 10,
+      "gradelist": []
+    },
+    {
+      "name": "刘帮",
+      "stuid": "160811",
+      "class": "16级8班",
+      "id": 11,
+      "gradelist": []
+    },
+    {
+      "name": "胡哥",
+      "stuid": "160812",
+      "class": "16级8班",
+      "id": 12,
+      "gradelist": []
+    },
+    {
+      "name": "景田",
+      "stuid": "160813",
+      "class": "16级8班",
+      "id": 13,
+      "gradelist": []
+    }
+  ],
+	"sevengradelist": [
+	  {
+	    "name": "朱古力",
+	    "stuid": "160701",
+	    "class": "16级7班",
+	    "id": 1,
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "105",
+	        "math": "122",
+	        "english": "127",
+	        "physics": "72",
+	        "chemistry": "90",
+	        "biology": "77"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "107",
+	        "math": "117",
+	        "english": "131",
+	        "physics": "49",
+	        "chemistry": "82",
+	        "biology": "85"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "99",
+	        "math": "119",
+	        "english": "128",
+	        "physics": "65",
+	        "chemistry": "86",
+	        "biology": "88"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "112",
+	        "math": "128",
+	        "english": "139",
+	        "physics": "69",
+	        "chemistry": "79",
+	        "biology": "86"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "105",
+	        "math": "109",
+	        "english": "122",
+	        "physics": "72",
+	        "chemistry": "92",
+	        "biology": "81"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "108",
+	        "math": "135",
+	        "english": "125",
+	        "physics": "83",
+	        "chemistry": "91",
+	        "biology": "93"
+	      }
+	    ]
+	  },
+	  {
+	    "name": "刘雪儿",
+	    "stuid": "160702",
+	    "class": "16级7班",
+	    "id": 2,
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "123",
+	        "math": "130",
+	        "english": "123",
+	        "physics": "78",
+	        "chemistry": "85",
+	        "biology": "100"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "112",
+	        "math": "128",
+	        "english": "132",
+	        "physics": "82",
+	        "chemistry": "66",
+	        "biology": "89"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "120",
+	        "math": "112",
+	        "english": "120",
+	        "physics": "69",
+	        "chemistry": "73",
+	        "biology": "98"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "115",
+	        "math": "108",
+	        "english": "123",
+	        "physics": "52",
+	        "chemistry": "69",
+	        "biology": "92"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "123",
+	        "math": "129",
+	        "english": "129",
+	        "physics": "78",
+	        "chemistry": "88",
+	        "biology": "89"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "125",
+	        "math": "139",
+	        "english": "135",
+	        "physics": "89",
+	        "chemistry": "93",
+	        "biology": "99"
+	      }
+	    ]
+	  },
+	  {
+	    "name": "赵瑟瑟",
+	    "stuid": "160703",
+	    "class": "16级7班",
+	    "id": 3,
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "112",
+	        "math": "90",
+	        "english": "115",
+	        "physics": "56",
+	        "chemistry": "65",
+	        "biology": "90"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "108",
+	        "math": "96",
+	        "english": "111",
+	        "physics": "60",
+	        "chemistry": "63",
+	        "biology": "82"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "95",
+	        "math": "107",
+	        "english": "117",
+	        "physics": "62",
+	        "chemistry": "59",
+	        "biology": "88"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "96",
+	        "math": "106",
+	        "english": "106",
+	        "physics": "66",
+	        "chemistry": "61",
+	        "biology": "90"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "102",
+	        "math": "98",
+	        "english": "120",
+	        "physics": "59",
+	        "chemistry": "68",
+	        "biology": "86"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "108",
+	        "math": "125",
+	        "english": "126",
+	        "physics": "70",
+	        "chemistry": "75",
+	        "biology": "92"
+	      }
+	    ]
+	  },
+	  {
+	    "name": "刘雨菲",
+	    "stuid": "160704",
+	    "class": "16级7班",
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "112",
+	        "math": "90",
+	        "english": "115",
+	        "physics": "56",
+	        "chemistry": "65",
+	        "biology": "90"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "108",
+	        "math": "96",
+	        "english": "111",
+	        "physics": "60",
+	        "chemistry": "63",
+	        "biology": "82"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "89",
+	        "math": "55",
+	        "english": "96",
+	        "physics": "28",
+	        "chemistry": "36",
+	        "biology": "68"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "88",
+	        "math": "77",
+	        "english": "99",
+	        "physics": "56",
+	        "chemistry": "55",
+	        "biology": "18"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "125",
+	        "math": "126",
+	        "english": "138",
+	        "physics": "89",
+	        "chemistry": "98",
+	        "biology": "99"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "123",
+	        "math": "136",
+	        "english": "129",
+	        "physics": "96",
+	        "chemistry": "97",
+	        "biology": "100"
+	      }
+	    ],
+	    "id": 4
+	  },
+	  {
+	    "name": "杨倩花",
+	    "stuid": "160705",
+	    "class": "16级7班",
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "121",
+	        "math": "122",
+	        "english": "115",
+	        "physics": "79",
+	        "chemistry": "92",
+	        "biology": "95"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "108",
+	        "math": "129",
+	        "english": "120",
+	        "physics": "88",
+	        "chemistry": "93",
+	        "biology": "97"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "111",
+	        "math": "123",
+	        "english": "118",
+	        "physics": "98",
+	        "chemistry": "96",
+	        "biology": "99"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "113",
+	        "math": "124",
+	        "english": "113",
+	        "physics": "79",
+	        "chemistry": "95",
+	        "biology": "88"
+	      }
+	    ],
+	    "id": 5
+	  },
+	  {
+	    "name": "李承鄞",
+	    "stuid": "160706",
+	    "class": "16级7班",
+	    "id": 6,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "曲小枫",
+	    "stuid": "160707",
+	    "class": "16级7班",
+	    "id": 7,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "马大帅",
+	    "stuid": "160708",
+	    "class": "16级7班",
+	    "id": 8,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "李思思",
+	    "stuid": "160709",
+	    "class": "16级7班",
+	    "id": 9,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "朱丹丹",
+	    "stuid": "160710",
+	    "class": "16级7班",
+	    "id": 10,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "刘婵",
+	    "stuid": "160711",
+	    "class": "16级7班",
+	    "id": 11,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "刘澈",
+	    "stuid": "160712",
+	    "class": "16级7班",
+	    "id": 12,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "程冠南",
+	    "stuid": "160713",
+	    "class": "16级7班",
+	    "id": 13,
+	    "gradelist": []
+	  }
+	],
+	"sixgradelist": [
+	  {
+	    "name": "杨密",
+	    "stuid": "160601",
+	    "class": "16级6班",
+	    "id": 1,
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "105",
+	        "math": "122",
+	        "english": "127",
+	        "physics": "72",
+	        "chemistry": "90",
+	        "biology": "77"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "107",
+	        "math": "117",
+	        "english": "131",
+	        "physics": "49",
+	        "chemistry": "82",
+	        "biology": "85"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "99",
+	        "math": "119",
+	        "english": "128",
+	        "physics": "65",
+	        "chemistry": "86",
+	        "biology": "88"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "112",
+	        "math": "128",
+	        "english": "139",
+	        "physics": "69",
+	        "chemistry": "79",
+	        "biology": "86"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "105",
+	        "math": "109",
+	        "english": "122",
+	        "physics": "72",
+	        "chemistry": "92",
+	        "biology": "81"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "108",
+	        "math": "135",
+	        "english": "125",
+	        "physics": "83",
+	        "chemistry": "91",
+	        "biology": "93"
+	      }
+	    ]
+	  },
+	  {
+	    "name": "李大有",
+	    "stuid": "160602",
+	    "class": "16级6班",
+	    "id": 2,
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "123",
+	        "math": "130",
+	        "english": "123",
+	        "physics": "78",
+	        "chemistry": "85",
+	        "biology": "100"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "112",
+	        "math": "128",
+	        "english": "132",
+	        "physics": "82",
+	        "chemistry": "66",
+	        "biology": "89"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "120",
+	        "math": "112",
+	        "english": "120",
+	        "physics": "69",
+	        "chemistry": "73",
+	        "biology": "98"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "115",
+	        "math": "108",
+	        "english": "123",
+	        "physics": "52",
+	        "chemistry": "69",
+	        "biology": "92"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "123",
+	        "math": "129",
+	        "english": "129",
+	        "physics": "78",
+	        "chemistry": "88",
+	        "biology": "89"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "125",
+	        "math": "139",
+	        "english": "135",
+	        "physics": "89",
+	        "chemistry": "93",
+	        "biology": "99"
+	      }
+	    ]
+	  },
+	  {
+	    "name": "李原截",
+	    "stuid": "160603",
+	    "class": "16级6班",
+	    "id": 3,
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "112",
+	        "math": "90",
+	        "english": "115",
+	        "physics": "56",
+	        "chemistry": "65",
+	        "biology": "90"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "108",
+	        "math": "96",
+	        "english": "111",
+	        "physics": "60",
+	        "chemistry": "63",
+	        "biology": "82"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "95",
+	        "math": "107",
+	        "english": "117",
+	        "physics": "62",
+	        "chemistry": "59",
+	        "biology": "88"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "96",
+	        "math": "106",
+	        "english": "106",
+	        "physics": "66",
+	        "chemistry": "61",
+	        "biology": "90"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "102",
+	        "math": "98",
+	        "english": "120",
+	        "physics": "59",
+	        "chemistry": "68",
+	        "biology": "86"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "108",
+	        "math": "125",
+	        "english": "126",
+	        "physics": "70",
+	        "chemistry": "75",
+	        "biology": "92"
+	      }
+	    ]
+	  },
+	  {
+	    "name": "吴光炎",
+	    "stuid": "160604",
+	    "class": "16级6班",
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "112",
+	        "math": "90",
+	        "english": "115",
+	        "physics": "56",
+	        "chemistry": "65",
+	        "biology": "90"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "108",
+	        "math": "96",
+	        "english": "111",
+	        "physics": "60",
+	        "chemistry": "63",
+	        "biology": "82"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "89",
+	        "math": "55",
+	        "english": "96",
+	        "physics": "28",
+	        "chemistry": "36",
+	        "biology": "68"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "88",
+	        "math": "77",
+	        "english": "99",
+	        "physics": "56",
+	        "chemistry": "55",
+	        "biology": "18"
+	      },
+	      {
+	        "stuyear": "2018-2019上学期",
+	        "chinese": "125",
+	        "math": "126",
+	        "english": "138",
+	        "physics": "89",
+	        "chemistry": "98",
+	        "biology": "99"
+	      },
+	      {
+	        "stuyear": "2018-2019下学期",
+	        "chinese": "123",
+	        "math": "136",
+	        "english": "129",
+	        "physics": "96",
+	        "chemistry": "97",
+	        "biology": "100"
+	      }
+	    ],
+	    "id": 4
+	  },
+	  {
+	    "name": "刘燕",
+	    "stuid": "160605",
+	    "class": "16级6班",
+	    "gradelist": [
+	      {
+	        "stuyear": "2016-2017上学期",
+	        "chinese": "121",
+	        "math": "122",
+	        "english": "115",
+	        "physics": "79",
+	        "chemistry": "92",
+	        "biology": "95"
+	      },
+	      {
+	        "stuyear": "2016-2017下学期",
+	        "chinese": "108",
+	        "math": "129",
+	        "english": "120",
+	        "physics": "88",
+	        "chemistry": "93",
+	        "biology": "97"
+	      },
+	      {
+	        "stuyear": "2017-2018上学期",
+	        "chinese": "111",
+	        "math": "123",
+	        "english": "118",
+	        "physics": "98",
+	        "chemistry": "96",
+	        "biology": "99"
+	      },
+	      {
+	        "stuyear": "2017-2018下学期",
+	        "chinese": "113",
+	        "math": "124",
+	        "english": "113",
+	        "physics": "79",
+	        "chemistry": "95",
+	        "biology": "88"
+	      }
+	    ],
+	    "id": 5
+	  },
+	  {
+	    "name": "白竹义",
+	    "stuid": "160606",
+	    "class": "16级6班",
+	    "id": 6,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "张大力",
+	    "stuid": "160607",
+	    "class": "16级6班",
+	    "id": 7,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "马云禄",
+	    "stuid": "160608",
+	    "class": "16级6班",
+	    "id": 8,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "刘大脚",
+	    "stuid": "160609",
+	    "class": "16级6班",
+	    "id": 9,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "马达",
+	    "stuid": "160610",
+	    "class": "16级6班",
+	    "id": 10,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "刘恋",
+	    "stuid": "160611",
+	    "class": "16级6班",
+	    "id": 11,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "胡图图",
+	    "stuid": "160612",
+	    "class": "16级6班",
+	    "id": 12,
+	    "gradelist": []
+	  },
+	  {
+	    "name": "马文路",
+	    "stuid": "160613",
+	    "class": "16级6班",
+	    "id": 13,
+	    "gradelist": []
+	  },
+		{
+		  "name": "张新宇",
+		  "stuid": "160614",
+		  "class": "16级6班",
+		  "id": 14,
+		  "gradelist": []
+		},
+		{
+		  "name": "张雪有",
+		  "stuid": "160615",
+		  "class": "16级6班",
+		  "id": 15,
+		  "gradelist": []
+		},
+		{
+		  "name": "张玉清",
+		  "stuid": "160616",
+		  "class": "16级6班",
+		  "id": 16,
+		  "gradelist": []
+		}
+	]
+	
+}
